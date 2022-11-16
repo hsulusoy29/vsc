@@ -1,2 +1,2 @@
 İlk commit
-Deneme 
+Deneme 1
